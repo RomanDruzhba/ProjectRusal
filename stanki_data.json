@@ -1,0 +1,19 @@
+{
+    "001": {
+      "min_temp": 50,
+      "max_temp": 60
+    },
+    "002": {
+      "min_temp": 40,
+      "max_temp": 60
+    },
+    "003": {
+      "min_temp": 55,
+      "max_temp": 60
+    },
+    "004": {
+      "min_temp": 45,
+      "max_temp": 100
+    }
+  }
+  
